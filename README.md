@@ -15,7 +15,7 @@
 
 Проект в HTML формате для просмотра хороплетов - [moscow-catering-research.html](moscow-catering-research.ipynb)
 
-Презентация в формате PDF - [moscow_catering_research.pdf](moscow-catering-research.pdf)
+Презентация в формате PDF - [moscow_catering_research.pdf](moscow_catering_research.pdf)
 
-Презентация в формате MS PowerPoint - [moscow_catering_research.pptx](moscow-catering-research.pptx)
+Презентация в формате MS PowerPoint - [moscow_catering_research.pptx](moscow_catering_research.pptx)
 
